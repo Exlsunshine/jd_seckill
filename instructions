@@ -1,0 +1,5 @@
+eid和fp是用脚本抢京东茅台必须的，最近也在试着操作一下，写下获取eid和fp的具体步骤。
+
+JD选择任意商品在结算页面按F12打开浏览器控制台，在console中分别输入_JdEid和_JdJrTdRiskFpInfo 获取eid和fp的内容，注意是在空白处的光标后面输入，不是在框框里面输
+
+将获取到的eid和fp的内容复制到config.ini文件中
